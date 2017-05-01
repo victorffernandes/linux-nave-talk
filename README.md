@@ -48,18 +48,7 @@
 ---
 
 # Principais comandos do terminal
-- <p style="max-width:460px; text-align: left;">Instaladores de pacotes</p>
-```
-sudo apt-get update
 
-sudo apt-get install conky
-
-sudo apt-get remove conky
-
-apt-get upgrade
-
-tar -xzvf ${filename}.tar.gz
-```
 - <p style="max-width:460px; text-align: left;">Bash</p>
 <img src="http://core0.staticworld.net/images/article/2016/03/apt-100653575-orig.png" style="float: right; margin-top: -60px" width="450px"/>
 
@@ -75,6 +64,18 @@ cd /usr/X11R6/bin
  
 pwd
  
+```
+- <p style="max-width:460px; text-align: left;">Instaladores de pacotes</p>
+```
+sudo apt-get update
+
+sudo apt-get install conky
+
+sudo apt-get remove conky
+
+apt-get upgrade
+
+tar -xzvf ${filename}.tar.gz
 ```
 
 - <p style="max-width:460px; text-align: left;">Git</p>
