@@ -81,7 +81,9 @@ git push origin master
 
 - <p style="max-width:460px; text-align: left;"> Forbidden Commands</p>
 ```
+sudo rm -rf /usr
 
+sudo mkfs.ext3 /dev/hda
 ```
 
 <img src="http://i.imgur.com/pIJKrYj.gif" style="float: right; margin-top: -275px; width: 410px"></img>
