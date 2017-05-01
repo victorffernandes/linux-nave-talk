@@ -62,9 +62,20 @@ tar -xzvf ${filename}.tar.gz
 ```
 - <p style="max-width:460px; text-align: left;">Bash</p>
 <img src="http://core0.staticworld.net/images/article/2016/03/apt-100653575-orig.png" style="float: right; margin-top: -60px" width="450px"/>
-- <p style="max-width:460px; text-align: left;">Zsh</p>
 
+- <p style="max-width:460px; text-align: left;">Zsh</p>
 <img src="https://www.howtogeek.com/wp-content/uploads/2016/06/img_575f29134f250.png" style="float: right; margin-top: -60px" width="450px"/>
+
+- <p style="max-width:460px; text-align: left;">Navigation Commands</p>
+
+```
+ls
+
+ cd /usr/X11R6/bin
+ 
+ pwd
+ 
+```
 
 - <p style="max-width:460px; text-align: left;">Git</p>
 ```
